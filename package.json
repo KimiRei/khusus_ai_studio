@@ -1,0 +1,14 @@
+{
+  "name": "khusus-ai-studio",
+  "version": "1.0.0",
+  "description": "Eksperimen dengan Google AI Studio (Gemini API)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.6.1"
+  }
+}
